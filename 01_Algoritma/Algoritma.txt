@@ -1,0 +1,52 @@
+Algoritma Nedir?
+
+Algoritma : Bir sorunu çözmek veya belirlenmiş bir amaca ulaşmak için tasarlanan yola,
+takip edilen işlem basamaklarına denir. Algoritmalar açıkca belirtilmiş bir başlangıcı ve
+sonu olan işlemler kümesidir.
+
+Akış Diagramları - Sözel Algoritmalar
+
+Örnemli Not !!!!
+
+Her algoritma  başla ve bitiş arasında olmalıdır.
+
+
+ilk algoritma, El_Harezmi'nin 'Hisab-el Cebir ve El-Mukabala'
+kitaplarında bahsedilmiştir.
+
+# Sözel Algoritma Örnekleri  Pseucode
+
+ÖRNEK-1 : Kullanıcı tarafından belirlenen 3 farklı sayının ortalamasını alalım.
+
+ ======
+ 1. Başla
+ 2. Birinci sayıyı al ve S1 ile isimlendir
+ 3. İkinci sayıyı al ve S2 ile isimlendir
+ 4. Üçüncü sayıyı al ve S3 ile isimlendir
+ 5. S1+S2+S3 işlemini yap ve  sonucu TOPLAM ile isimlendir.
+ 6. TOPLAM / 3 işlemini yap ve ORTALAMA ile isimlendir.
+ 7. ORTALAMA değerini ekrana yazdır.
+ 8. Bitir
+ ===
+
+ ÖRNEK-2: EVDE ÇAY DEMLEME İŞLEMİ
+
+ =======
+ 1. Başla
+ 2. Mutfağa git
+ 3. Çaydanlığı eline al
+ 4. Çaydanlığa su koy (sular kesikse 4. adımı tekrar et, değilse 5. adıma geç)
+ 5. Ocağı aç
+ 6. Çandanlığı ocağa koy
+ 7. Su kaynadı mı ? (Evet/Hayır)
+ 8. 7  Evet ise  9. adıma git. Hayır ise 7. adıma geri git. => Karar aşaması
+ 9. Demliğe çay koy.(çay yoksa 10.adıma git
+ 10. Demlendi mi? (Evet/Hayır). Evet ise 11. adıma git , hayır ise 10. adımı tekrar et => Karar aşaması
+ 11. Servis yap
+ 12. Bitir
+=======
+
+---- Ödev
+## 1. Evde Çay yoksa.
+## 2. Bakkal KAPALIYSA
+## 3. Sular kesikse
